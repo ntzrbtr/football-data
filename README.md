@@ -1,6 +1,6 @@
 # Football data
 
-This repository assembles footbal data as JSON files suitable for use with any JavaScript (or other project).
+This repository assembles footbal data as JSON files suitable for use within JavaScript projects (though as it is JSON, the data is generally usable with any programming language offering JSON support, e.g. PHP).
 
 The data is grouped into topics and contains the data in different languages.
 
