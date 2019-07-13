@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/retiolum/football-data/issues"
   },
-  "homepage": "https://github.com/retiolum/football-data#readme"
+  "homepage": "https://github.com/retiolum/football-data#readme",
+  "devDependencies": {
+    "globby": "^10.0.1"
+  }
 }
