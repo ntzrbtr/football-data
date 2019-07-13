@@ -19,4 +19,4 @@ The repository also contains the raw data used to create the JSON data; each raw
 
 The following data sets are currently available:
 
-- List of finals in European cups
+- [List of finals in European cups](src/european_cup_finals2)
