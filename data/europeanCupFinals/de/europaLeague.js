@@ -1,4 +1,4 @@
-export default [
+module.exports = [
   {
     "season": "2009/10",
     "winner": {

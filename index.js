@@ -1,9 +1,3 @@
-import europeanCupFinals from './data/europeanCupFinals';
-
-export {
-    europeanCupFinals,
-};
-
-export default {
-    europeanCupFinals,
+module.exports = {
+    europeanCupFinals: require('./data/europeanCupFinals'),
 };

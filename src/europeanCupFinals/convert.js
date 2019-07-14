@@ -63,7 +63,7 @@ async function convertFile(file) {
 
     // Create the JSON file.
     const outputFile = path.resolve(path.join(__dirname.replace('/src/', '/data/'), file.replace(/\.tsv$/, '.js')));
-    const outputData = 'export default ' + JSON.stringify(finals, null, 2) + ';';
+    const outputData = 'module.exports = ' + JSON.stringify(finals, null, 2) + ';';
     await fsPromises.mkdir(path.dirname(outputFile), { recursive: true });
     await fsPromises.writeFile(outputFile, outputData);
 }

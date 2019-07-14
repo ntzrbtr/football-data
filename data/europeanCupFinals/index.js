@@ -1,37 +1,24 @@
-import championsLeagueDE from './de/championsLeague';
 const championsLeague = {
-    de: championsLeagueDE,
+    de: require('./de/championsLeague'),
 };
 
-import cupWinnersCupDE from './de/cupWinnersCup';
 const cupWinnersCup = {
-    de: cupWinnersCupDE,
+    de: require('./de/cupWinnersCup'),
 };
 
-import europaLeagueDE from './de/europaLeague';
 const europaLeague = {
-    de: europaLeagueDE,
+    de: require('./de/europaLeague'),
 };
 
-import europeanCupDE from './de/europeanCup';
 const europeanCup = {
-    de: europeanCupDE,
+    de: require('./de/europeanCup'),
 };
 
-import uefaCupDE from './de/uefaCup';
 const uefaCup = {
-    de: uefaCupDE,
+    de: require('./de/uefaCup'),
 };
 
-export {
-    championsLeague,
-    cupWinnersCup,
-    europaLeague,
-    europeanCup,
-    uefaCup,
-};
-
-export default {
+module.exports = {
     championsLeague,
     cupWinnersCup,
     europaLeague,

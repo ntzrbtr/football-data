@@ -1,4 +1,4 @@
-export default [
+module.exports = [
   {
     "season": "1971/72",
     "winner": {
