@@ -22,7 +22,7 @@ The following data sets are currently available:
 
 ### Node
 
-```
+```javascript
 const footballData = require('@retiolum/football-data');
 
 console.log(data.europeanCupFinals);
@@ -33,7 +33,7 @@ console.log(data.europeanCupFinals);
 
 Import everything:
 
-```
+```javascript
 import * as footballData from '@retiolum/football-data';
 
 console.log(footballData.europeanCupFinals);
@@ -41,7 +41,7 @@ console.log(footballData.europeanCupFinals);
 
 Or import only the things you need:
 
-```
+```javascript
 import { europeanCupFinals } from '@retiolum/football-data';
 
 console.log(europeanCupFinals);
