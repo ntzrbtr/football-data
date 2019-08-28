@@ -4,7 +4,7 @@
   "description": "Collection of data about football as JSON files for use in other JavaScript projects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Currrently there are no test specified\" && exit 0"
+    "test": "standard"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/retiolum/football-data#readme",
   "devDependencies": {
-    "globby": "^10.0.1"
+    "globby": "^10.0.1",
+    "standard": "^14.0.2"
   }
 }

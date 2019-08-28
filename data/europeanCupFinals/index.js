@@ -1,27 +1,27 @@
 const championsLeague = {
-    de: require('./de/championsLeague'),
-};
+  de: require('./de/championsLeague')
+}
 
 const cupWinnersCup = {
-    de: require('./de/cupWinnersCup'),
-};
+  de: require('./de/cupWinnersCup')
+}
 
 const europaLeague = {
-    de: require('./de/europaLeague'),
-};
+  de: require('./de/europaLeague')
+}
 
 const europeanCup = {
-    de: require('./de/europeanCup'),
-};
+  de: require('./de/europeanCup')
+}
 
 const uefaCup = {
-    de: require('./de/uefaCup'),
-};
+  de: require('./de/uefaCup')
+}
 
 module.exports = {
-    championsLeague,
-    cupWinnersCup,
-    europaLeague,
-    europeanCup,
-    uefaCup,
-};
+  championsLeague,
+  cupWinnersCup,
+  europaLeague,
+  europeanCup,
+  uefaCup
+}

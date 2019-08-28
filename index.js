@@ -1,3 +1,3 @@
 module.exports = {
-    europeanCupFinals: require('./data/europeanCupFinals'),
-};
+  europeanCupFinals: require('./data/europeanCupFinals')
+}
