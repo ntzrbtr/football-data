@@ -22,6 +22,6 @@
   "homepage": "https://github.com/retiolum/football-data#readme",
   "devDependencies": {
     "globby": "^10.0.1",
-    "standard": "^14.0.2"
+    "standard": "^14.3.1"
   }
 }
