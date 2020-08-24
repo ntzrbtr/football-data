@@ -218,5 +218,27 @@ module.exports = [
       },
       second: null
     }
+  },
+  {
+    season: '2019/20',
+    winner: {
+      country: 'Spanien',
+      team: 'FC Sevilla'
+    },
+    runnerUp: {
+      country: 'Italien',
+      team: 'Inter Mailand'
+    },
+    result: '3:2',
+    city: 'RheinEnergieStadion',
+    stadium: 'Köln',
+    legs: {
+      first: {
+        result: '3:2',
+        city: 'RheinEnergieStadion',
+        stadium: 'Köln'
+      },
+      second: null
+    }
   }
 ]

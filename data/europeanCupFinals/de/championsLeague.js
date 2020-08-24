@@ -592,5 +592,27 @@ module.exports = [
       },
       second: null
     }
+  },
+  {
+    season: '2019/20',
+    winner: {
+      country: 'Deutschland',
+      team: 'FC Bayern München'
+    },
+    runnerUp: {
+      country: 'Frankreich',
+      team: 'Tottenham Hotspur'
+    },
+    result: '1:0',
+    city: 'Estádio da Luz',
+    stadium: 'Lissabon',
+    legs: {
+      first: {
+        result: '1:0',
+        city: 'Estádio da Luz',
+        stadium: 'Lissabon'
+      },
+      second: null
+    }
   }
 ]
