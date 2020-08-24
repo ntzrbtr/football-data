@@ -10,18 +10,18 @@ module.exports = [
       team: 'Wolverhampton Wanderers'
     },
     result: '2:1 / 1:1',
-    city: 'Molineux Stadium / White Hart Lane',
-    stadium: 'Wolverhampton / London',
+    stadium: 'Molineux Stadium / White Hart Lane',
+    city: 'Wolverhampton / London',
     legs: {
       first: {
         result: '2:1',
-        city: 'Molineux Stadium',
-        stadium: 'Wolverhampton'
+        stadium: 'Molineux Stadium',
+        city: 'Wolverhampton'
       },
       second: {
         result: '1:1',
-        city: 'White Hart Lane',
-        stadium: 'London'
+        stadium: 'White Hart Lane',
+        city: 'London'
       }
     }
   },
@@ -36,18 +36,18 @@ module.exports = [
       team: 'Borussia Mönchengladbach'
     },
     result: '3:0 / 0:2',
-    city: 'Anfield / Bökelbergstadion',
-    stadium: 'Liverpool / Mönchengladbach',
+    stadium: 'Anfield / Bökelbergstadion',
+    city: 'Liverpool / Mönchengladbach',
     legs: {
       first: {
         result: '3:0',
-        city: 'Anfield',
-        stadium: 'Liverpool'
+        stadium: 'Anfield',
+        city: 'Liverpool'
       },
       second: {
         result: '0:2',
-        city: 'Bökelbergstadion',
-        stadium: 'Mönchengladbach'
+        stadium: 'Bökelbergstadion',
+        city: 'Mönchengladbach'
       }
     }
   },
@@ -62,18 +62,18 @@ module.exports = [
       team: 'Tottenham Hotspur'
     },
     result: '2:2 / 2:0',
-    city: 'White Hart Lane / De Kuip',
-    stadium: 'London / Rotterdam',
+    stadium: 'White Hart Lane / De Kuip',
+    city: 'London / Rotterdam',
     legs: {
       first: {
         result: '2:2',
-        city: 'White Hart Lane',
-        stadium: 'London'
+        stadium: 'White Hart Lane',
+        city: 'London'
       },
       second: {
         result: '2:0',
-        city: 'De Kuip',
-        stadium: 'Rotterdam'
+        stadium: 'De Kuip',
+        city: 'Rotterdam'
       }
     }
   },
@@ -88,18 +88,18 @@ module.exports = [
       team: 'FC Twente Enschede'
     },
     result: '0:0 / 5:1',
-    city: 'Rheinstadion / Stadion Het Diekman',
-    stadium: 'Düsseldorf / Enschede',
+    stadium: 'Rheinstadion / Stadion Het Diekman',
+    city: 'Düsseldorf / Enschede',
     legs: {
       first: {
         result: '0:0',
-        city: 'Rheinstadion',
-        stadium: 'Düsseldorf'
+        stadium: 'Rheinstadion',
+        city: 'Düsseldorf'
       },
       second: {
         result: '5:1',
-        city: 'Stadion Het Diekman',
-        stadium: 'Enschede'
+        stadium: 'Stadion Het Diekman',
+        city: 'Enschede'
       }
     }
   },
@@ -114,18 +114,18 @@ module.exports = [
       team: 'FC Brügge'
     },
     result: '3:2 / 1:1',
-    city: 'Anfield / Olympiastadion',
-    stadium: 'Liverpool / Brügge',
+    stadium: 'Anfield / Olympiastadion',
+    city: 'Liverpool / Brügge',
     legs: {
       first: {
         result: '3:2',
-        city: 'Anfield',
-        stadium: 'Liverpool'
+        stadium: 'Anfield',
+        city: 'Liverpool'
       },
       second: {
         result: '1:1',
-        city: 'Olympiastadion',
-        stadium: 'Brügge'
+        stadium: 'Olympiastadion',
+        city: 'Brügge'
       }
     }
   },
@@ -140,18 +140,18 @@ module.exports = [
       team: 'Athletic Bilbao'
     },
     result: '1:0 / 1:2',
-    city: 'Stadio Comunale / San Mamés',
-    stadium: 'Turin / Bilbao',
+    stadium: 'Stadio Comunale / San Mamés',
+    city: 'Turin / Bilbao',
     legs: {
       first: {
         result: '1:0',
-        city: 'Stadio Comunale',
-        stadium: 'Turin'
+        stadium: 'Stadio Comunale',
+        city: 'Turin'
       },
       second: {
         result: '1:2',
-        city: 'San Mamés',
-        stadium: 'Bilbao'
+        stadium: 'San Mamés',
+        city: 'Bilbao'
       }
     }
   },
@@ -166,18 +166,18 @@ module.exports = [
       team: 'SEC Bastia'
     },
     result: '0:0 / 3:0',
-    city: 'Stade Furiani / Philips Stadion',
-    stadium: 'Bastia / Eindhoven',
+    stadium: 'Stade Furiani / Philips Stadion',
+    city: 'Bastia / Eindhoven',
     legs: {
       first: {
         result: '0:0',
-        city: 'Stade Furiani',
-        stadium: 'Bastia'
+        stadium: 'Stade Furiani',
+        city: 'Bastia'
       },
       second: {
         result: '3:0',
-        city: 'Philips Stadion',
-        stadium: 'Eindhoven'
+        stadium: 'Philips Stadion',
+        city: 'Eindhoven'
       }
     }
   },
@@ -192,18 +192,18 @@ module.exports = [
       team: 'Roter Stern Belgrad'
     },
     result: '1:1 / 1:0',
-    city: 'Stadion Roter Stern / Rheinstadion',
-    stadium: 'Belgrad / Düsseldorf',
+    stadium: 'Stadion Roter Stern / Rheinstadion',
+    city: 'Belgrad / Düsseldorf',
     legs: {
       first: {
         result: '1:1',
-        city: 'Stadion Roter Stern',
-        stadium: 'Belgrad'
+        stadium: 'Stadion Roter Stern',
+        city: 'Belgrad'
       },
       second: {
         result: '1:0',
-        city: 'Rheinstadion',
-        stadium: 'Düsseldorf'
+        stadium: 'Rheinstadion',
+        city: 'Düsseldorf'
       }
     }
   },
@@ -218,18 +218,18 @@ module.exports = [
       team: 'Borussia Mönchengladbach'
     },
     result: '2:3 / 1:0',
-    city: 'Bökelbergstadion / Waldstadion',
-    stadium: 'Mönchengladbach / Frankfurt am Main',
+    stadium: 'Bökelbergstadion / Waldstadion',
+    city: 'Mönchengladbach / Frankfurt am Main',
     legs: {
       first: {
         result: '2:3',
-        city: 'Bökelbergstadion',
-        stadium: 'Mönchengladbach'
+        stadium: 'Bökelbergstadion',
+        city: 'Mönchengladbach'
       },
       second: {
         result: '1:0',
-        city: 'Waldstadion',
-        stadium: 'Frankfurt am Main'
+        stadium: 'Waldstadion',
+        city: 'Frankfurt am Main'
       }
     }
   },
@@ -244,18 +244,18 @@ module.exports = [
       team: 'AZ Alkmaar'
     },
     result: '3:0 / 2:4',
-    city: 'Portman Road / Olympiastadion',
-    stadium: 'Ipswich / Amsterdam',
+    stadium: 'Portman Road / Olympiastadion',
+    city: 'Ipswich / Amsterdam',
     legs: {
       first: {
         result: '3:0',
-        city: 'Portman Road',
-        stadium: 'Ipswich'
+        stadium: 'Portman Road',
+        city: 'Ipswich'
       },
       second: {
         result: '2:4',
-        city: 'Olympiastadion',
-        stadium: 'Amsterdam'
+        stadium: 'Olympiastadion',
+        city: 'Amsterdam'
       }
     }
   },
@@ -270,18 +270,18 @@ module.exports = [
       team: 'Hamburger SV'
     },
     result: '1:0 / 3:0',
-    city: 'Ullevi / Volksparkstadion',
-    stadium: 'Göteborg / Hamburg',
+    stadium: 'Ullevi / Volksparkstadion',
+    city: 'Göteborg / Hamburg',
     legs: {
       first: {
         result: '1:0',
-        city: 'Ullevi',
-        stadium: 'Göteborg'
+        stadium: 'Ullevi',
+        city: 'Göteborg'
       },
       second: {
         result: '3:0',
-        city: 'Volksparkstadion',
-        stadium: 'Hamburg'
+        stadium: 'Volksparkstadion',
+        city: 'Hamburg'
       }
     }
   },
@@ -296,18 +296,18 @@ module.exports = [
       team: 'Benfica Lissabon'
     },
     result: '1:0 / 1:1',
-    city: 'Heysel-Stadion / Estádio da Luz',
-    stadium: 'Brüssel / Lissabon',
+    stadium: 'Heysel-Stadion / Estádio da Luz',
+    city: 'Brüssel / Lissabon',
     legs: {
       first: {
         result: '1:0',
-        city: 'Heysel-Stadion',
-        stadium: 'Brüssel'
+        stadium: 'Heysel-Stadion',
+        city: 'Brüssel'
       },
       second: {
         result: '1:1',
-        city: 'Estádio da Luz',
-        stadium: 'Lissabon'
+        stadium: 'Estádio da Luz',
+        city: 'Lissabon'
       }
     }
   },
@@ -322,18 +322,18 @@ module.exports = [
       team: 'RSC Anderlecht'
     },
     result: '1:1 / 1:1 n.V. (4:3 i.E.)',
-    city: 'Vanden-Stock-Stadion / White Hart Lane',
-    stadium: 'Brüssel / London',
+    stadium: 'Vanden-Stock-Stadion / White Hart Lane',
+    city: 'Brüssel / London',
     legs: {
       first: {
         result: '1:1',
-        city: 'Vanden-Stock-Stadion',
-        stadium: 'Brüssel'
+        stadium: 'Vanden-Stock-Stadion',
+        city: 'Brüssel'
       },
       second: {
         result: '1:1 n.V. (4:3 i.E.)',
-        city: 'White Hart Lane',
-        stadium: 'London'
+        stadium: 'White Hart Lane',
+        city: 'London'
       }
     }
   },
@@ -348,18 +348,18 @@ module.exports = [
       team: 'Videoton Székesfehérvár'
     },
     result: '3:0 / 0:1',
-    city: 'Sóstói-Stadion / Estadio Santiago Bernabéu',
-    stadium: 'Székesfehérvár / Madrid',
+    stadium: 'Sóstói-Stadion / Estadio Santiago Bernabéu',
+    city: 'Székesfehérvár / Madrid',
     legs: {
       first: {
         result: '3:0',
-        city: 'Sóstói-Stadion',
-        stadium: 'Székesfehérvár'
+        stadium: 'Sóstói-Stadion',
+        city: 'Székesfehérvár'
       },
       second: {
         result: '0:1',
-        city: 'Estadio Santiago Bernabéu',
-        stadium: 'Madrid'
+        stadium: 'Estadio Santiago Bernabéu',
+        city: 'Madrid'
       }
     }
   },
@@ -374,18 +374,18 @@ module.exports = [
       team: '1. FC Köln'
     },
     result: '5:1 / 0:2',
-    city: 'Estadio Santiago Bernabéu / Olympiastadion',
-    stadium: 'Madrid / Berlin',
+    stadium: 'Estadio Santiago Bernabéu / Olympiastadion',
+    city: 'Madrid / Berlin',
     legs: {
       first: {
         result: '5:1',
-        city: 'Estadio Santiago Bernabéu',
-        stadium: 'Madrid'
+        stadium: 'Estadio Santiago Bernabéu',
+        city: 'Madrid'
       },
       second: {
         result: '0:2',
-        city: 'Olympiastadion',
-        stadium: 'Berlin'
+        stadium: 'Olympiastadion',
+        city: 'Berlin'
       }
     }
   },
@@ -400,18 +400,18 @@ module.exports = [
       team: 'Dundee United'
     },
     result: '1:0 / 1:1',
-    city: 'Ullevi / Tannadice Park',
-    stadium: 'Göteborg / Dundee',
+    stadium: 'Ullevi / Tannadice Park',
+    city: 'Göteborg / Dundee',
     legs: {
       first: {
         result: '1:0',
-        city: 'Ullevi',
-        stadium: 'Göteborg'
+        stadium: 'Ullevi',
+        city: 'Göteborg'
       },
       second: {
         result: '1:1',
-        city: 'Tannadice Park',
-        stadium: 'Dundee'
+        stadium: 'Tannadice Park',
+        city: 'Dundee'
       }
     }
   },
@@ -426,18 +426,18 @@ module.exports = [
       team: 'Espanyol Barcelona'
     },
     result: '0:3 / 3:0 n.V. (3:2 i.E.)',
-    city: 'Estadi Sarrià / Ulrich-Haberland-Stadion',
-    stadium: 'Barcelona / Leverkusen',
+    stadium: 'Estadi Sarrià / Ulrich-Haberland-Stadion',
+    city: 'Barcelona / Leverkusen',
     legs: {
       first: {
         result: '0:3',
-        city: 'Estadi Sarrià',
-        stadium: 'Barcelona'
+        stadium: 'Estadi Sarrià',
+        city: 'Barcelona'
       },
       second: {
         result: '3:0 n.V. (3:2 i.E.)',
-        city: 'Ulrich-Haberland-Stadion',
-        stadium: 'Leverkusen'
+        stadium: 'Ulrich-Haberland-Stadion',
+        city: 'Leverkusen'
       }
     }
   },
@@ -452,18 +452,18 @@ module.exports = [
       team: 'VfB Stuttgart'
     },
     result: '2:1 / 3:3',
-    city: 'Stadio San Paolo / Neckarstadion',
-    stadium: 'Neapel / Stuttgart',
+    stadium: 'Stadio San Paolo / Neckarstadion',
+    city: 'Neapel / Stuttgart',
     legs: {
       first: {
         result: '2:1',
-        city: 'Stadio San Paolo',
-        stadium: 'Neapel'
+        stadium: 'Stadio San Paolo',
+        city: 'Neapel'
       },
       second: {
         result: '3:3',
-        city: 'Neckarstadion',
-        stadium: 'Stuttgart'
+        stadium: 'Neckarstadion',
+        city: 'Stuttgart'
       }
     }
   },
@@ -478,18 +478,18 @@ module.exports = [
       team: 'AC Florenz'
     },
     result: '3:1 / 0:0',
-    city: 'Stadio Comunale / Stadio Partenio-Adriano Lombardi',
-    stadium: 'Turin / Avellino',
+    stadium: 'Stadio Comunale / Stadio Partenio-Adriano Lombardi',
+    city: 'Turin / Avellino',
     legs: {
       first: {
         result: '3:1',
-        city: 'Stadio Comunale',
-        stadium: 'Turin'
+        stadium: 'Stadio Comunale',
+        city: 'Turin'
       },
       second: {
         result: '0:0',
-        city: 'Stadio Partenio-Adriano Lombardi',
-        stadium: 'Avellino'
+        stadium: 'Stadio Partenio-Adriano Lombardi',
+        city: 'Avellino'
       }
     }
   },
@@ -504,18 +504,18 @@ module.exports = [
       team: 'AS Rom'
     },
     result: '2:0 / 0:1',
-    city: 'Giuseppe-Meazza-Stadion / Olympiastadion Rom',
-    stadium: 'Mailand / Rom',
+    stadium: 'Giuseppe-Meazza-Stadion / Olympiastadion Rom',
+    city: 'Mailand / Rom',
     legs: {
       first: {
         result: '2:0',
-        city: 'Giuseppe-Meazza-Stadion',
-        stadium: 'Mailand'
+        stadium: 'Giuseppe-Meazza-Stadion',
+        city: 'Mailand'
       },
       second: {
         result: '0:1',
-        city: 'Olympiastadion Rom',
-        stadium: 'Rom'
+        stadium: 'Olympiastadion Rom',
+        city: 'Rom'
       }
     }
   },
@@ -530,18 +530,18 @@ module.exports = [
       team: 'AC Turin'
     },
     result: '2:2 / 0:0',
-    city: 'Stadio delle Alpi / Olympiastadion',
-    stadium: 'Turin / Amsterdam',
+    stadium: 'Stadio delle Alpi / Olympiastadion',
+    city: 'Turin / Amsterdam',
     legs: {
       first: {
         result: '2:2',
-        city: 'Stadio delle Alpi',
-        stadium: 'Turin'
+        stadium: 'Stadio delle Alpi',
+        city: 'Turin'
       },
       second: {
         result: '0:0',
-        city: 'Olympiastadion',
-        stadium: 'Amsterdam'
+        stadium: 'Olympiastadion',
+        city: 'Amsterdam'
       }
     }
   },
@@ -556,18 +556,18 @@ module.exports = [
       team: 'Borussia Dortmund'
     },
     result: '3:1 / 3:0',
-    city: 'Westfalenstadion / Stadio delle Alpi',
-    stadium: 'Dortmund / Turin',
+    stadium: 'Westfalenstadion / Stadio delle Alpi',
+    city: 'Dortmund / Turin',
     legs: {
       first: {
         result: '3:1',
-        city: 'Westfalenstadion',
-        stadium: 'Dortmund'
+        stadium: 'Westfalenstadion',
+        city: 'Dortmund'
       },
       second: {
         result: '3:0',
-        city: 'Stadio delle Alpi',
-        stadium: 'Turin'
+        stadium: 'Stadio delle Alpi',
+        city: 'Turin'
       }
     }
   },
@@ -582,18 +582,18 @@ module.exports = [
       team: 'SV Austria Salzburg'
     },
     result: '1:0 / 1:0',
-    city: 'Ernst-Happel-Stadion / Giuseppe-Meazza-Stadion',
-    stadium: 'Wien / Mailand',
+    stadium: 'Ernst-Happel-Stadion / Giuseppe-Meazza-Stadion',
+    city: 'Wien / Mailand',
     legs: {
       first: {
         result: '1:0',
-        city: 'Ernst-Happel-Stadion',
-        stadium: 'Wien'
+        stadium: 'Ernst-Happel-Stadion',
+        city: 'Wien'
       },
       second: {
         result: '1:0',
-        city: 'Giuseppe-Meazza-Stadion',
-        stadium: 'Mailand'
+        stadium: 'Giuseppe-Meazza-Stadion',
+        city: 'Mailand'
       }
     }
   },
@@ -608,18 +608,18 @@ module.exports = [
       team: 'Juventus Turin'
     },
     result: '1:0 / 1:1',
-    city: 'Stadio Ennio Tardini / Giuseppe-Meazza-Stadion',
-    stadium: 'Parma / Mailand',
+    stadium: 'Stadio Ennio Tardini / Giuseppe-Meazza-Stadion',
+    city: 'Parma / Mailand',
     legs: {
       first: {
         result: '1:0',
-        city: 'Stadio Ennio Tardini',
-        stadium: 'Parma'
+        stadium: 'Stadio Ennio Tardini',
+        city: 'Parma'
       },
       second: {
         result: '1:1',
-        city: 'Giuseppe-Meazza-Stadion',
-        stadium: 'Mailand'
+        stadium: 'Giuseppe-Meazza-Stadion',
+        city: 'Mailand'
       }
     }
   },
@@ -634,18 +634,18 @@ module.exports = [
       team: 'Girondins Bordeaux'
     },
     result: '2:0 / 3:1',
-    city: 'Olympiastadion / Parc Lescure',
-    stadium: 'München / Bordeaux',
+    stadium: 'Olympiastadion / Parc Lescure',
+    city: 'München / Bordeaux',
     legs: {
       first: {
         result: '2:0',
-        city: 'Olympiastadion',
-        stadium: 'München'
+        stadium: 'Olympiastadion',
+        city: 'München'
       },
       second: {
         result: '3:1',
-        city: 'Parc Lescure',
-        stadium: 'Bordeaux'
+        stadium: 'Parc Lescure',
+        city: 'Bordeaux'
       }
     }
   },
@@ -660,18 +660,18 @@ module.exports = [
       team: 'Inter Mailand'
     },
     result: '1:0 / 0:1 n.V. (4:1 i.E.)',
-    city: 'Parkstadion / Giuseppe-Meazza-Stadion',
-    stadium: 'Gelsenkirchen / Mailand',
+    stadium: 'Parkstadion / Giuseppe-Meazza-Stadion',
+    city: 'Gelsenkirchen / Mailand',
     legs: {
       first: {
         result: '1:0',
-        city: 'Parkstadion',
-        stadium: 'Gelsenkirchen'
+        stadium: 'Parkstadion',
+        city: 'Gelsenkirchen'
       },
       second: {
         result: '0:1 n.V. (4:1 i.E.)',
-        city: 'Giuseppe-Meazza-Stadion',
-        stadium: 'Mailand'
+        stadium: 'Giuseppe-Meazza-Stadion',
+        city: 'Mailand'
       }
     }
   },
@@ -686,13 +686,13 @@ module.exports = [
       team: 'Lazio Rom'
     },
     result: '3:0',
-    city: 'Prinzenpark',
-    stadium: 'Paris',
+    stadium: 'Prinzenpark',
+    city: 'Paris',
     legs: {
       first: {
         result: '3:0',
-        city: 'Prinzenpark',
-        stadium: 'Paris'
+        stadium: 'Prinzenpark',
+        city: 'Paris'
       },
       second: null
     }
@@ -708,13 +708,13 @@ module.exports = [
       team: 'Olympique Marseille'
     },
     result: '3:0',
-    city: 'Olympiastadion Luschniki',
-    stadium: 'Moskau',
+    stadium: 'Olympiastadion Luschniki',
+    city: 'Moskau',
     legs: {
       first: {
         result: '3:0',
-        city: 'Olympiastadion Luschniki',
-        stadium: 'Moskau'
+        stadium: 'Olympiastadion Luschniki',
+        city: 'Moskau'
       },
       second: null
     }
@@ -730,13 +730,13 @@ module.exports = [
       team: 'FC Arsenal'
     },
     result: '0:0 n.V. / 4:1 i.E.',
-    city: 'Parken',
-    stadium: 'Kopenhagen',
+    stadium: 'Parken',
+    city: 'Kopenhagen',
     legs: {
       first: {
         result: '0:0 n.V. / 4:1 i.E.',
-        city: 'Parken',
-        stadium: 'Kopenhagen'
+        stadium: 'Parken',
+        city: 'Kopenhagen'
       },
       second: null
     }
@@ -752,13 +752,13 @@ module.exports = [
       team: 'Deportivo Alavés'
     },
     result: '5:4 n.GG',
-    city: 'Westfalenstadion',
-    stadium: 'Dortmund',
+    stadium: 'Westfalenstadion',
+    city: 'Dortmund',
     legs: {
       first: {
         result: '5:4 n.GG',
-        city: 'Westfalenstadion',
-        stadium: 'Dortmund'
+        stadium: 'Westfalenstadion',
+        city: 'Dortmund'
       },
       second: null
     }
@@ -774,13 +774,13 @@ module.exports = [
       team: 'Borussia Dortmund'
     },
     result: '3:2',
-    city: 'De Kuip',
-    stadium: 'Rotterdam',
+    stadium: 'De Kuip',
+    city: 'Rotterdam',
     legs: {
       first: {
         result: '3:2',
-        city: 'De Kuip',
-        stadium: 'Rotterdam'
+        stadium: 'De Kuip',
+        city: 'Rotterdam'
       },
       second: null
     }
@@ -796,13 +796,13 @@ module.exports = [
       team: 'Celtic Glasgow'
     },
     result: '3:2 n.V.',
-    city: 'Olympiastadion Sevilla',
-    stadium: 'Sevilla',
+    stadium: 'Olympiastadion Sevilla',
+    city: 'Sevilla',
     legs: {
       first: {
         result: '3:2 n.V.',
-        city: 'Olympiastadion Sevilla',
-        stadium: 'Sevilla'
+        stadium: 'Olympiastadion Sevilla',
+        city: 'Sevilla'
       },
       second: null
     }
@@ -818,13 +818,13 @@ module.exports = [
       team: 'Olympique Marseille'
     },
     result: '2:0',
-    city: 'Ullevi',
-    stadium: 'Göteborg',
+    stadium: 'Ullevi',
+    city: 'Göteborg',
     legs: {
       first: {
         result: '2:0',
-        city: 'Ullevi',
-        stadium: 'Göteborg'
+        stadium: 'Ullevi',
+        city: 'Göteborg'
       },
       second: null
     }
@@ -840,13 +840,13 @@ module.exports = [
       team: 'Sporting Lissabon'
     },
     result: '3:1',
-    city: 'Estadio José Alvalade XXI',
-    stadium: 'Lissabon',
+    stadium: 'Estadio José Alvalade XXI',
+    city: 'Lissabon',
     legs: {
       first: {
         result: '3:1',
-        city: 'Estadio José Alvalade XXI',
-        stadium: 'Lissabon'
+        stadium: 'Estadio José Alvalade XXI',
+        city: 'Lissabon'
       },
       second: null
     }
@@ -862,13 +862,13 @@ module.exports = [
       team: 'FC Middlesbrough'
     },
     result: '4:0',
-    city: 'Philips Stadion',
-    stadium: 'Eindhoven',
+    stadium: 'Philips Stadion',
+    city: 'Eindhoven',
     legs: {
       first: {
         result: '4:0',
-        city: 'Philips Stadion',
-        stadium: 'Eindhoven'
+        stadium: 'Philips Stadion',
+        city: 'Eindhoven'
       },
       second: null
     }
@@ -884,13 +884,13 @@ module.exports = [
       team: 'Espanyol Barcelona'
     },
     result: '2:2 n.V. / 3:1 i.E.',
-    city: 'Hampden Park',
-    stadium: 'Glasgow',
+    stadium: 'Hampden Park',
+    city: 'Glasgow',
     legs: {
       first: {
         result: '2:2 n.V. / 3:1 i.E.',
-        city: 'Hampden Park',
-        stadium: 'Glasgow'
+        stadium: 'Hampden Park',
+        city: 'Glasgow'
       },
       second: null
     }
@@ -906,13 +906,13 @@ module.exports = [
       team: 'Glasgow Rangers'
     },
     result: '2:0',
-    city: 'City of Manchester Stadium',
-    stadium: 'Manchester',
+    stadium: 'City of Manchester Stadium',
+    city: 'Manchester',
     legs: {
       first: {
         result: '2:0',
-        city: 'City of Manchester Stadium',
-        stadium: 'Manchester'
+        stadium: 'City of Manchester Stadium',
+        city: 'Manchester'
       },
       second: null
     }
@@ -928,13 +928,13 @@ module.exports = [
       team: 'Werder Bremen'
     },
     result: '2:1 n.V.',
-    city: 'Şükrü Saracoğlu Stadı',
-    stadium: 'Istanbul',
+    stadium: 'Şükrü Saracoğlu Stadı',
+    city: 'Istanbul',
     legs: {
       first: {
         result: '2:1 n.V.',
-        city: 'Şükrü Saracoğlu Stadı',
-        stadium: 'Istanbul'
+        stadium: 'Şükrü Saracoğlu Stadı',
+        city: 'Istanbul'
       },
       second: null
     }

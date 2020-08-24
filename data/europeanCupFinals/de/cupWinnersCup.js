@@ -10,18 +10,18 @@ module.exports = [
       team: 'Glasgow Rangers'
     },
     result: '2:0 / 2:1',
-    city: 'Ibrox Park / Stadio Comunale',
-    stadium: 'Glasgow / Florenz',
+    stadium: 'Ibrox Park / Stadio Comunale',
+    city: 'Glasgow / Florenz',
     legs: {
       first: {
         result: '2:0',
-        city: 'Ibrox Park',
-        stadium: 'Glasgow'
+        stadium: 'Ibrox Park',
+        city: 'Glasgow'
       },
       second: {
         result: '2:1',
-        city: 'Stadio Comunale',
-        stadium: 'Florenz'
+        stadium: 'Stadio Comunale',
+        city: 'Florenz'
       }
     }
   },
@@ -36,18 +36,18 @@ module.exports = [
       team: 'AC Florenz'
     },
     result: '1:1 n.V. / 3:0 (WS)',
-    city: 'Hampden Park / Neckarstadion',
-    stadium: 'Glasgow / Stuttgart',
+    stadium: 'Hampden Park / Neckarstadion',
+    city: 'Glasgow / Stuttgart',
     legs: {
       first: {
         result: '1:1 n.V.',
-        city: 'Hampden Park',
-        stadium: 'Glasgow'
+        stadium: 'Hampden Park',
+        city: 'Glasgow'
       },
       second: {
         result: '3:0 (WS)',
-        city: 'Neckarstadion',
-        stadium: 'Stuttgart'
+        stadium: 'Neckarstadion',
+        city: 'Stuttgart'
       }
     }
   },
@@ -62,13 +62,13 @@ module.exports = [
       team: 'Atlético Madrid'
     },
     result: '5:1',
-    city: 'De Kuip',
-    stadium: 'Rotterdam',
+    stadium: 'De Kuip',
+    city: 'Rotterdam',
     legs: {
       first: {
         result: '5:1',
-        city: 'De Kuip',
-        stadium: 'Rotterdam'
+        stadium: 'De Kuip',
+        city: 'Rotterdam'
       },
       second: null
     }
@@ -84,18 +84,18 @@ module.exports = [
       team: 'MTK Budapest'
     },
     result: '3:3 n.V. / 1:0 (WS)',
-    city: 'Heysel-Stadion / Bosuilstadion',
-    stadium: 'Brüssel / Antwerpen',
+    stadium: 'Heysel-Stadion / Bosuilstadion',
+    city: 'Brüssel / Antwerpen',
     legs: {
       first: {
         result: '3:3 n.V.',
-        city: 'Heysel-Stadion',
-        stadium: 'Brüssel'
+        stadium: 'Heysel-Stadion',
+        city: 'Brüssel'
       },
       second: {
         result: '1:0 (WS)',
-        city: 'Bosuilstadion',
-        stadium: 'Antwerpen'
+        stadium: 'Bosuilstadion',
+        city: 'Antwerpen'
       }
     }
   },
@@ -110,13 +110,13 @@ module.exports = [
       team: 'TSV 1860 München'
     },
     result: '2:0',
-    city: 'Wembley-Stadion',
-    stadium: 'London',
+    stadium: 'Wembley-Stadion',
+    city: 'London',
     legs: {
       first: {
         result: '2:0',
-        city: 'Wembley-Stadion',
-        stadium: 'London'
+        stadium: 'Wembley-Stadion',
+        city: 'London'
       },
       second: null
     }
@@ -132,13 +132,13 @@ module.exports = [
       team: 'FC Liverpool'
     },
     result: '2:1 n.V.',
-    city: 'Hampden Park',
-    stadium: 'Glasgow',
+    stadium: 'Hampden Park',
+    city: 'Glasgow',
     legs: {
       first: {
         result: '2:1 n.V.',
-        city: 'Hampden Park',
-        stadium: 'Glasgow'
+        stadium: 'Hampden Park',
+        city: 'Glasgow'
       },
       second: null
     }
@@ -154,13 +154,13 @@ module.exports = [
       team: 'Glasgow Rangers'
     },
     result: '1:0 n.V.',
-    city: 'Städtisches Stadion',
-    stadium: 'Nürnberg',
+    stadium: 'Städtisches Stadion',
+    city: 'Nürnberg',
     legs: {
       first: {
         result: '1:0 n.V.',
-        city: 'Städtisches Stadion',
-        stadium: 'Nürnberg'
+        stadium: 'Städtisches Stadion',
+        city: 'Nürnberg'
       },
       second: null
     }
@@ -176,13 +176,13 @@ module.exports = [
       team: 'Hamburger SV'
     },
     result: '2:0',
-    city: 'De Kuip',
-    stadium: 'Rotterdam',
+    stadium: 'De Kuip',
+    city: 'Rotterdam',
     legs: {
       first: {
         result: '2:0',
-        city: 'De Kuip',
-        stadium: 'Rotterdam'
+        stadium: 'De Kuip',
+        city: 'Rotterdam'
       },
       second: null
     }
@@ -198,13 +198,13 @@ module.exports = [
       team: 'FC Barcelona'
     },
     result: '3:2',
-    city: 'St. Jakob-Stadion',
-    stadium: 'Basel',
+    stadium: 'St. Jakob-Stadion',
+    city: 'Basel',
     legs: {
       first: {
         result: '3:2',
-        city: 'St. Jakob-Stadion',
-        stadium: 'Basel'
+        stadium: 'St. Jakob-Stadion',
+        city: 'Basel'
       },
       second: null
     }
@@ -220,13 +220,13 @@ module.exports = [
       team: 'Górnik Zabrze'
     },
     result: '2:1',
-    city: 'Praterstadion',
-    stadium: 'Wien',
+    stadium: 'Praterstadion',
+    city: 'Wien',
     legs: {
       first: {
         result: '2:1',
-        city: 'Praterstadion',
-        stadium: 'Wien'
+        stadium: 'Praterstadion',
+        city: 'Wien'
       },
       second: null
     }
@@ -242,13 +242,13 @@ module.exports = [
       team: 'Real Madrid'
     },
     result: '1:1 n.V. / 2:1 (WS)',
-    city: 'Karaiskakis-Stadion',
-    stadium: 'Piräus',
+    stadium: 'Karaiskakis-Stadion',
+    city: 'Piräus',
     legs: {
       first: {
         result: '1:1 n.V. / 2:1 (WS)',
-        city: 'Karaiskakis-Stadion',
-        stadium: 'Piräus'
+        stadium: 'Karaiskakis-Stadion',
+        city: 'Piräus'
       },
       second: null
     }
@@ -264,13 +264,13 @@ module.exports = [
       team: 'FK Dynamo Moskau'
     },
     result: '3:2',
-    city: 'Camp Nou',
-    stadium: 'Barcelona',
+    stadium: 'Camp Nou',
+    city: 'Barcelona',
     legs: {
       first: {
         result: '3:2',
-        city: 'Camp Nou',
-        stadium: 'Barcelona'
+        stadium: 'Camp Nou',
+        city: 'Barcelona'
       },
       second: null
     }
@@ -286,13 +286,13 @@ module.exports = [
       team: 'Leeds United'
     },
     result: '1:0',
-    city: 'Kaftanzoglio-Stadion',
-    stadium: 'Thessaloniki',
+    stadium: 'Kaftanzoglio-Stadion',
+    city: 'Thessaloniki',
     legs: {
       first: {
         result: '1:0',
-        city: 'Kaftanzoglio-Stadion',
-        stadium: 'Thessaloniki'
+        stadium: 'Kaftanzoglio-Stadion',
+        city: 'Thessaloniki'
       },
       second: null
     }
@@ -308,13 +308,13 @@ module.exports = [
       team: 'AC Mailand'
     },
     result: '2:0',
-    city: 'De Kuip',
-    stadium: 'Rotterdam',
+    stadium: 'De Kuip',
+    city: 'Rotterdam',
     legs: {
       first: {
         result: '2:0',
-        city: 'De Kuip',
-        stadium: 'Rotterdam'
+        stadium: 'De Kuip',
+        city: 'Rotterdam'
       },
       second: null
     }
@@ -330,13 +330,13 @@ module.exports = [
       team: 'Ferencváros Budapest'
     },
     result: '3:0',
-    city: 'St. Jakob-Stadion',
-    stadium: 'Basel',
+    stadium: 'St. Jakob-Stadion',
+    city: 'Basel',
     legs: {
       first: {
         result: '3:0',
-        city: 'St. Jakob-Stadion',
-        stadium: 'Basel'
+        stadium: 'St. Jakob-Stadion',
+        city: 'Basel'
       },
       second: null
     }
@@ -352,13 +352,13 @@ module.exports = [
       team: 'West Ham United'
     },
     result: '4:2',
-    city: 'Heysel-Stadion',
-    stadium: 'Brüssel',
+    stadium: 'Heysel-Stadion',
+    city: 'Brüssel',
     legs: {
       first: {
         result: '4:2',
-        city: 'Heysel-Stadion',
-        stadium: 'Brüssel'
+        stadium: 'Heysel-Stadion',
+        city: 'Brüssel'
       },
       second: null
     }
@@ -374,13 +374,13 @@ module.exports = [
       team: 'RSC Anderlecht'
     },
     result: '2:0',
-    city: 'Olympiastadion',
-    stadium: 'Amsterdam',
+    stadium: 'Olympiastadion',
+    city: 'Amsterdam',
     legs: {
       first: {
         result: '2:0',
-        city: 'Olympiastadion',
-        stadium: 'Amsterdam'
+        stadium: 'Olympiastadion',
+        city: 'Amsterdam'
       },
       second: null
     }
@@ -396,13 +396,13 @@ module.exports = [
       team: 'FK Austria Wien'
     },
     result: '4:0',
-    city: 'Prinzenpark',
-    stadium: 'Paris',
+    stadium: 'Prinzenpark',
+    city: 'Paris',
     legs: {
       first: {
         result: '4:0',
-        city: 'Prinzenpark',
-        stadium: 'Paris'
+        stadium: 'Prinzenpark',
+        city: 'Paris'
       },
       second: null
     }
@@ -418,13 +418,13 @@ module.exports = [
       team: 'Fortuna Düsseldorf'
     },
     result: '4:3 n.V.',
-    city: 'St. Jakob-Stadion',
-    stadium: 'Basel',
+    stadium: 'St. Jakob-Stadion',
+    city: 'Basel',
     legs: {
       first: {
         result: '4:3 n.V.',
-        city: 'St. Jakob-Stadion',
-        stadium: 'Basel'
+        stadium: 'St. Jakob-Stadion',
+        city: 'Basel'
       },
       second: null
     }
@@ -440,13 +440,13 @@ module.exports = [
       team: 'FC Arsenal'
     },
     result: '0:0 n.V. 5:4 i.E.',
-    city: 'Heysel-Stadion',
-    stadium: 'Brüssel',
+    stadium: 'Heysel-Stadion',
+    city: 'Brüssel',
     legs: {
       first: {
         result: '0:0 n.V. 5:4 i.E.',
-        city: 'Heysel-Stadion',
-        stadium: 'Brüssel'
+        stadium: 'Heysel-Stadion',
+        city: 'Brüssel'
       },
       second: null
     }
@@ -462,13 +462,13 @@ module.exports = [
       team: 'FC Carl Zeiss Jena'
     },
     result: '2:1',
-    city: 'Rheinstadion',
-    stadium: 'Düsseldorf',
+    stadium: 'Rheinstadion',
+    city: 'Düsseldorf',
     legs: {
       first: {
         result: '2:1',
-        city: 'Rheinstadion',
-        stadium: 'Düsseldorf'
+        stadium: 'Rheinstadion',
+        city: 'Düsseldorf'
       },
       second: null
     }
@@ -484,13 +484,13 @@ module.exports = [
       team: 'Standard Lüttich'
     },
     result: '2:1',
-    city: 'Camp Nou',
-    stadium: 'Barcelona',
+    stadium: 'Camp Nou',
+    city: 'Barcelona',
     legs: {
       first: {
         result: '2:1',
-        city: 'Camp Nou',
-        stadium: 'Barcelona'
+        stadium: 'Camp Nou',
+        city: 'Barcelona'
       },
       second: null
     }
@@ -506,13 +506,13 @@ module.exports = [
       team: 'Real Madrid'
     },
     result: '2:1',
-    city: 'Ullevi',
-    stadium: 'Göteborg',
+    stadium: 'Ullevi',
+    city: 'Göteborg',
     legs: {
       first: {
         result: '2:1',
-        city: 'Ullevi',
-        stadium: 'Göteborg'
+        stadium: 'Ullevi',
+        city: 'Göteborg'
       },
       second: null
     }
@@ -528,13 +528,13 @@ module.exports = [
       team: 'FC Porto'
     },
     result: '2:1',
-    city: 'St. Jakob-Stadion',
-    stadium: 'Basel',
+    stadium: 'St. Jakob-Stadion',
+    city: 'Basel',
     legs: {
       first: {
         result: '2:1',
-        city: 'St. Jakob-Stadion',
-        stadium: 'Basel'
+        stadium: 'St. Jakob-Stadion',
+        city: 'Basel'
       },
       second: null
     }
@@ -550,13 +550,13 @@ module.exports = [
       team: 'SK Rapid Wien'
     },
     result: '3:1',
-    city: 'De Kuip',
-    stadium: 'Rotterdam',
+    stadium: 'De Kuip',
+    city: 'Rotterdam',
     legs: {
       first: {
         result: '3:1',
-        city: 'De Kuip',
-        stadium: 'Rotterdam'
+        stadium: 'De Kuip',
+        city: 'Rotterdam'
       },
       second: null
     }
@@ -572,13 +572,13 @@ module.exports = [
       team: 'Atlético Madrid'
     },
     result: '3:0',
-    city: 'Stade Gerland',
-    stadium: 'Lyon',
+    stadium: 'Stade Gerland',
+    city: 'Lyon',
     legs: {
       first: {
         result: '3:0',
-        city: 'Stade Gerland',
-        stadium: 'Lyon'
+        stadium: 'Stade Gerland',
+        city: 'Lyon'
       },
       second: null
     }
@@ -594,13 +594,13 @@ module.exports = [
       team: '1. FC Lokomotive Leipzig'
     },
     result: '1:0',
-    city: 'Olympiastadion',
-    stadium: 'Athen',
+    stadium: 'Olympiastadion',
+    city: 'Athen',
     legs: {
       first: {
         result: '1:0',
-        city: 'Olympiastadion',
-        stadium: 'Athen'
+        stadium: 'Olympiastadion',
+        city: 'Athen'
       },
       second: null
     }
@@ -616,13 +616,13 @@ module.exports = [
       team: 'Ajax Amsterdam'
     },
     result: '1:0',
-    city: 'Stade de la Meinau',
-    stadium: 'Straßburg',
+    stadium: 'Stade de la Meinau',
+    city: 'Straßburg',
     legs: {
       first: {
         result: '1:0',
-        city: 'Stade de la Meinau',
-        stadium: 'Straßburg'
+        stadium: 'Stade de la Meinau',
+        city: 'Straßburg'
       },
       second: null
     }
@@ -638,13 +638,13 @@ module.exports = [
       team: 'Sampdoria Genua'
     },
     result: '2:0',
-    city: 'Stadion Wankdorf',
-    stadium: 'Bern',
+    stadium: 'Stadion Wankdorf',
+    city: 'Bern',
     legs: {
       first: {
         result: '2:0',
-        city: 'Stadion Wankdorf',
-        stadium: 'Bern'
+        stadium: 'Stadion Wankdorf',
+        city: 'Bern'
       },
       second: null
     }
@@ -660,13 +660,13 @@ module.exports = [
       team: 'RSC Anderlecht'
     },
     result: '2:0 n.V.',
-    city: 'Ullevi',
-    stadium: 'Göteborg',
+    stadium: 'Ullevi',
+    city: 'Göteborg',
     legs: {
       first: {
         result: '2:0 n.V.',
-        city: 'Ullevi',
-        stadium: 'Göteborg'
+        stadium: 'Ullevi',
+        city: 'Göteborg'
       },
       second: null
     }
@@ -682,13 +682,13 @@ module.exports = [
       team: 'FC Barcelona'
     },
     result: '2:1',
-    city: 'De Kuip',
-    stadium: 'Rotterdam',
+    stadium: 'De Kuip',
+    city: 'Rotterdam',
     legs: {
       first: {
         result: '2:1',
-        city: 'De Kuip',
-        stadium: 'Rotterdam'
+        stadium: 'De Kuip',
+        city: 'Rotterdam'
       },
       second: null
     }
@@ -704,13 +704,13 @@ module.exports = [
       team: 'AS Monaco'
     },
     result: '2:0',
-    city: 'Estádio da Luz',
-    stadium: 'Lissabon',
+    stadium: 'Estádio da Luz',
+    city: 'Lissabon',
     legs: {
       first: {
         result: '2:0',
-        city: 'Estádio da Luz',
-        stadium: 'Lissabon'
+        stadium: 'Estádio da Luz',
+        city: 'Lissabon'
       },
       second: null
     }
@@ -726,13 +726,13 @@ module.exports = [
       team: 'Royal Antwerpen'
     },
     result: '3:1',
-    city: 'Wembley-Stadion',
-    stadium: 'London',
+    stadium: 'Wembley-Stadion',
+    city: 'London',
     legs: {
       first: {
         result: '3:1',
-        city: 'Wembley-Stadion',
-        stadium: 'London'
+        stadium: 'Wembley-Stadion',
+        city: 'London'
       },
       second: null
     }
@@ -748,13 +748,13 @@ module.exports = [
       team: 'AC Parma'
     },
     result: '1:0',
-    city: 'Parken',
-    stadium: 'Kopenhagen',
+    stadium: 'Parken',
+    city: 'Kopenhagen',
     legs: {
       first: {
         result: '1:0',
-        city: 'Parken',
-        stadium: 'Kopenhagen'
+        stadium: 'Parken',
+        city: 'Kopenhagen'
       },
       second: null
     }
@@ -770,13 +770,13 @@ module.exports = [
       team: 'FC Arsenal'
     },
     result: '2:1 n.V.',
-    city: 'Prinzenpark',
-    stadium: 'Paris',
+    stadium: 'Prinzenpark',
+    city: 'Paris',
     legs: {
       first: {
         result: '2:1 n.V.',
-        city: 'Prinzenpark',
-        stadium: 'Paris'
+        stadium: 'Prinzenpark',
+        city: 'Paris'
       },
       second: null
     }
@@ -792,13 +792,13 @@ module.exports = [
       team: 'SK Rapid Wien'
     },
     result: '1:0',
-    city: 'König-Baudouin-Stadion',
-    stadium: 'Brüssel',
+    stadium: 'König-Baudouin-Stadion',
+    city: 'Brüssel',
     legs: {
       first: {
         result: '1:0',
-        city: 'König-Baudouin-Stadion',
-        stadium: 'Brüssel'
+        stadium: 'König-Baudouin-Stadion',
+        city: 'Brüssel'
       },
       second: null
     }
@@ -814,13 +814,13 @@ module.exports = [
       team: 'Paris Saint-Germain'
     },
     result: '1:0',
-    city: 'De Kuip',
-    stadium: 'Rotterdam',
+    stadium: 'De Kuip',
+    city: 'Rotterdam',
     legs: {
       first: {
         result: '1:0',
-        city: 'De Kuip',
-        stadium: 'Rotterdam'
+        stadium: 'De Kuip',
+        city: 'Rotterdam'
       },
       second: null
     }
@@ -836,13 +836,13 @@ module.exports = [
       team: 'VfB Stuttgart'
     },
     result: '1:0',
-    city: 'Råsundastadion',
-    stadium: 'Stockholm',
+    stadium: 'Råsundastadion',
+    city: 'Stockholm',
     legs: {
       first: {
         result: '1:0',
-        city: 'Råsundastadion',
-        stadium: 'Stockholm'
+        stadium: 'Råsundastadion',
+        city: 'Stockholm'
       },
       second: null
     }
@@ -858,13 +858,13 @@ module.exports = [
       team: 'RCD Mallorca'
     },
     result: '2:1',
-    city: 'Villa Park',
-    stadium: 'Birmingham',
+    stadium: 'Villa Park',
+    city: 'Birmingham',
     legs: {
       first: {
         result: '2:1',
-        city: 'Villa Park',
-        stadium: 'Birmingham'
+        stadium: 'Villa Park',
+        city: 'Birmingham'
       },
       second: null
     }
