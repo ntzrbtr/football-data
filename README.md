@@ -2,14 +2,14 @@
 
 This repository assembles footbal data as JSON files suitable for use within JavaScript projects (though as it is JSON, the data is generally usable with any programming language offering JSON support, e.g. PHP).
 
-The data is grouped into topics and contains the data in different languages.
+The data is grouped into topics and contains the data in different languages (currently only German is available).
 
 
 ## Data sets
 
 The following data sets are currently available:
 
-- [List of finals in European cups](src/europeanCupFinals)
+- List of finals in European cups
 
 
 ## Installation
@@ -25,7 +25,7 @@ The following data sets are currently available:
 ```javascript
 const footballData = require('@retiolum/football-data');
 
-console.log(data.europeanCupFinals);
+console.log(footballData.uefaCup);
 ```
 
 
@@ -36,15 +36,15 @@ Import everything:
 ```javascript
 import * as footballData from '@retiolum/football-data';
 
-console.log(footballData.europeanCupFinals);
+console.log(footballData.uefaCup);
 ```
 
 Or import only the things you need:
 
 ```javascript
-import { europeanCupFinals } from '@retiolum/football-data';
+import { uefaCup } from '@retiolum/football-data';
 
-console.log(europeanCupFinals);
+console.log(uefaCup);
 ```
 
 
