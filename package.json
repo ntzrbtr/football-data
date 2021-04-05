@@ -1,6 +1,6 @@
 {
   "name": "@retiolum/football-data",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Collection of data about football as JSON files for use in other JavaScript projects",
   "main": "index.js",
   "scripts": {
