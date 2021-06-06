@@ -614,5 +614,27 @@ module.exports = [
       },
       second: null
     }
+  },
+  {
+    season: '2020/21',
+    winner: {
+      country: 'England',
+      team: 'FC Chelsea'
+    },
+    runnerUp: {
+      country: 'England',
+      team: 'Manchester City'
+    },
+    result: '1:0',
+    stadium: 'Estádio do Dragão',
+    city: 'Lissabon',
+    legs: {
+      first: {
+        result: '1:0',
+        stadium: 'Estádio do Dragão',
+        city: 'Lissabon'
+      },
+      second: null
+    }
   }
 ]
