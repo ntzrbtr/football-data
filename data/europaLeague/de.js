@@ -258,7 +258,7 @@ module.exports = [
       first: {
         result: '1:1 n.V., 11:10 i.E.',
         stadium: 'Stadion Miejski',
-        city: 'Danzig',
+        city: 'Danzig'
       },
       second: null
     }
