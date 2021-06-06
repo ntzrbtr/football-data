@@ -240,5 +240,27 @@ module.exports = [
       },
       second: null
     }
+  },
+  {
+    season: '2020/21',
+    winner: {
+      country: 'Spanien',
+      team: 'FC Villareal'
+    },
+    runnerUp: {
+      country: 'England',
+      team: 'Manchester United'
+    },
+    result: '1:1 n.V., 11:10 i.E.',
+    stadium: 'Stadion Miejski',
+    city: 'Danzig',
+    legs: {
+      first: {
+        result: '1:1 n.V., 11:10 i.E.',
+        stadium: 'Stadion Miejski',
+        city: 'Danzig',
+      },
+      second: null
+    }
   }
 ]
