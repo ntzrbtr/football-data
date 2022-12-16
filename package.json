@@ -1,5 +1,5 @@
 {
-  "name": "@retiolum/football-data",
+  "name": "@ntzrbtr/football-data",
   "version": "1.1.0",
   "description": "Collection of data about football as JSON files for use in other JavaScript projects",
   "main": "index.js",
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/retiolum/football-data.git"
+    "url": "git+ssh://git@github.com/ntzrbtr/football-data.git"
   },
   "author": {
     "name": "Thomas Off",
-    "email": "thomas.off@retiolum.de",
-    "url": "https://www.retiolum.de"
+    "email": "thomas.off@netzarbeiter.info",
+    "url": "https://www.netzarbeiter.info"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/retiolum/football-data/issues"
+    "url": "https://github.com/ntzrbtr/football-data/issues"
   },
-  "homepage": "https://github.com/retiolum/football-data#readme",
+  "homepage": "https://github.com/ntzrbtr/football-data#readme",
   "devDependencies": {
     "globby": "^11.0.3",
     "standard": "^16.0.3"

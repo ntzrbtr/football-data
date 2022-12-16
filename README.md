@@ -14,7 +14,7 @@ The following data sets are currently available:
 
 ## Installation
 
-`npm install @retiolum/football-data`
+`npm install @ntzrbtr/football-data`
 
 
 ## Usage
@@ -23,7 +23,7 @@ The following data sets are currently available:
 ### Node
 
 ```javascript
-const footballData = require('@retiolum/football-data');
+const footballData = require('@ntzrbtr/football-data');
 
 console.log(footballData.uefaCup);
 ```
@@ -34,7 +34,7 @@ console.log(footballData.uefaCup);
 Import everything:
 
 ```javascript
-import * as footballData from '@retiolum/football-data';
+import * as footballData from '@ntzrbtr/football-data';
 
 console.log(footballData.uefaCup);
 ```
@@ -42,7 +42,7 @@ console.log(footballData.uefaCup);
 Or import only the things you need:
 
 ```javascript
-import { uefaCup } from '@retiolum/football-data';
+import { uefaCup } from '@ntzrbtr/football-data';
 
 console.log(uefaCup);
 ```
