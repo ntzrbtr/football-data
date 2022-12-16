@@ -262,5 +262,27 @@ module.exports = [
       },
       second: null
     }
+  },
+  {
+    season: '2021/22',
+    winner: {
+      country: 'Deutschland',
+      team: 'Eintracht Frankfurt'
+    },
+    runnerUp: {
+      country: 'Schottland',
+      team: 'Glasgow Rangers'
+    },
+    result: '1:1 n.V., 5:4 i.E.',
+    stadium: 'Estadio Ramón Sánchez Pizjuán',
+    city: 'Sevilla',
+    legs: {
+      first: {
+        result: '1:1 n.V., 5:4 i.E.',
+        stadium: 'Estadio Ramón Sánchez Pizjuán',
+        city: 'Sevilla'
+      },
+      second: null
+    }
   }
 ]

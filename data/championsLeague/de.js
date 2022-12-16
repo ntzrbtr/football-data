@@ -636,5 +636,27 @@ module.exports = [
       },
       second: null
     }
+  },
+  {
+    season: '2021/22',
+    winner: {
+      country: 'Spanien',
+      team: 'Real Madrid'
+    },
+    runnerUp: {
+      country: 'England',
+      team: 'FC Liverpool'
+    },
+    result: '1:0',
+    stadium: 'Stade de France',
+    city: 'Saint-Denis',
+    legs: {
+      first: {
+        result: '0:0',
+        stadium: 'Stade de France',
+        city: 'Saint-Denis'
+      },
+      second: null
+    }
   }
 ]
